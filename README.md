@@ -1,4 +1,6 @@
 # IPL-data--Exploratory-Analysis
+This task is done as a task for The Sparks Foundation Internship task.
+
 This repository contains the notebook in which I have done some exploratory analysis on the statistical data of IPL from 2008 to 2019 and have drawn various inferences.
 
 AIMS OF ANALYSIS: 
